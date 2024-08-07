@@ -44,12 +44,4 @@ class Course:
         else:
             print('There are no students in the course')
     
-                
-
-course1 = Course('English', 'Nathaniel')
-course1.add_student('Jonathan', 26, 95)
-course1.add_
-course1.students
-course1.remove_student('jonathan')
-course1.students
-    
+                    
